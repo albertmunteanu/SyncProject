@@ -1,0 +1,2 @@
+Synchronizing /path/to/source to /users/albert/pycharmprojects/ReplicaProject
+Synchronizing C:\Users\Albert\Documents\SourceFolder to C:\users\albert\pycharmprojects\ReplicaProject
